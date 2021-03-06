@@ -7,9 +7,16 @@
 }
 .heading{
     text-align: center;
-    font-size: 20px;
-    font-style: italic;
-    background: rgb(247, 247, 247);
+    font-size: 35px;
+    font-style: "Helvetica";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-80%, -50%);
+    color:rgb(254, 255, 240);
+    
+    
+    
 }
 .bg-img{
   background: url('air2.png');
